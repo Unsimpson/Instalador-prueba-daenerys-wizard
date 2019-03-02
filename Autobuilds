@@ -1,3 +1,28 @@
+
+
+name="Wizard Daenerys 18"
+
+version="1.0"
+
+url="https://archive.org/download/Daenerys18.19feb/Daenerys18.19feb.zip"
+
+gui=""
+
+kodi="18"
+
+theme="http://"
+
+icon="https://i.imgur.com/L1eTbPS.png"
+
+fanart="https://i.imgur.com/FJAOfxP.jpg"
+
+preview=""
+
+adult="No"
+
+info="http://"
+
+description="Wizard Daenerys para Kodi 18 Leia" 
 name="Wizard Daenerys 17"
 version="1.0"
 url="https://archive.org/download/Daenerys17.23enero/Daenerys17.23enero.zip"
@@ -10,15 +35,3 @@ preview=""
 adult="No"
 info="http://"
 description="Wizard Daenerys para Kodi 17 Krypton" 
-name="Wizard Daenerys 18"
-version="1.0"
-url="https://archive.org/download/Daenerys18.19feb/Daenerys18.19feb.zip"
-gui=""
-kodi="18"
-theme="http://"
-icon="https://i.imgur.com/L1eTbPS.png"
-fanart="https://i.imgur.com/FJAOfxP.jpg"
-preview=""
-adult="No"
-info="http://"
-description="Wizard Daenerys para Kodi 18 Leia" 
